@@ -25,8 +25,6 @@ dependencies {
 }
 ```
 
-# How to Use
-Take a look inside [Wiki Site](https://github.com/danimahardhika/candybar-library/wiki)
 
 # Previews
 <img src="https://raw.githubusercontent.com/danimahardhika/candybar-library/master/screenshots/home.jpg" width="215"/> <img src="https://raw.githubusercontent.com/danimahardhika/candybar-library/master/screenshots/navigation_drawer.jpg" width="215"/> <img src="https://raw.githubusercontent.com/danimahardhika/candybar-library/master/screenshots/changelog.jpg" width="215"/> <img src="https://raw.githubusercontent.com/danimahardhika/candybar-library/master/screenshots/icon_request.jpg" width="215"/>
