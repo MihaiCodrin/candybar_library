@@ -32,8 +32,6 @@ dependencies {
 
 # Features
 * License Checker
-* Apply: 23 launchers
-  * [List of Supported Launchers](https://github.com/danimahardhika/candybar-library/wiki/List-of-Supported-Launcher)
 * Icon Picker: see all icons included with sections and search
 * Icon Request
   * Regular Request: free to request
