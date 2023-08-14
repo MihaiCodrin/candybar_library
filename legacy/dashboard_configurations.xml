@@ -3,10 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation">
 
-    <!-- ======================================================================================= -->
-    <!-- ============================== DASHBOARD CONFIGURATIONS =============================== -->
-    <!-- ======================================================================================= -->
-
     <!-- CONFIG: DEFAULT THEME -->
 
     <!-- Use dark theme as default theme -->
